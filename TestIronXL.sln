@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestIronXL", "TestIronXL\TestIronXL.csproj", "{0A5E7244-6FF5-44B3-BC24-12DE0B8AC9E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A5E7244-6FF5-44B3-BC24-12DE0B8AC9E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5E7244-6FF5-44B3-BC24-12DE0B8AC9E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5E7244-6FF5-44B3-BC24-12DE0B8AC9E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5E7244-6FF5-44B3-BC24-12DE0B8AC9E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
